@@ -16,7 +16,9 @@ public class LeftRotation {
                 origList[i] = number;
             }
             int[] newArray = rotateArray(origList, rotation);
-            System.out.println(Arrays.toString(newArray));
+            String stringArray = Arrays.toString(newArray).replace(",", "").replace("[", "").replace("]", "").trim();
+            System.out.println(stringArray);
+
 
         }
     }
