@@ -6,7 +6,7 @@ Some solutions to the HackerRank problems.
 Problems
 ----------------------------------------
 
-## 30 Days of Code
+#### 30 Days of Code
 
 | Number | Problem                                                              | Difficulty |
 |--------|----------------------------------------------------------------------|------------|
@@ -43,7 +43,7 @@ Problems
 | 30     |     | easy       |
 
 
-## Cracking the Coding Interview
+#### Cracking the Coding Interview
 
 | Problem                                                                         | Difficulty |
 |---------------------------------------------------------------------------------|------------|
