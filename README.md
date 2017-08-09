@@ -47,14 +47,14 @@ Problems
 
 | Problem                                                                         | Difficulty |
 |---------------------------------------------------------------------------------|------------|
-| Data Structures                                                                                |            |
+| **Data Structures**                                                                               |            |
 | [Left Rotation](https://www.hackerrank.com/challenges/ctci-array-left-rotation) | easy       |
 |  [Making Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams)              | easy       |
 | [Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note)                | easy       |
 | [A Tale of Two Stacks](https://www.hackerrank.com/challenges/ctci-queue-using-two-stacks)                | medium       |
-| Algorithms                                                                                |            |
+| **Algorithms**                                                                                |            |
 | [Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort)                | medium       |
 | [Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting)                | medium       |
-| Techniques/Concepts                                                                                |            |
+| **Techniques/Concepts**                                                                              |            |
 | [Fibonacci](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers)                | easy      |
 
