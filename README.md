@@ -55,6 +55,7 @@ Problems
 | **Algorithms**                                                                                |            |
 | [Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort)                | medium       |
 | [Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting)                | medium       |
+| [Merge Sort](https://www.hackerrank.com/challenges/ctci-merge-sort)                | hard       |
 | **Techniques/Concepts**                                                                              |            |
 | [Fibonacci](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers)                | easy      |
 
