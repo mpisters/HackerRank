@@ -25,7 +25,7 @@ Problems
 | 12     | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance) | easy       |
 | 13      | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes)   | easy       |
 | 14     | [Scope](https://www.hackerrank.com/challenges/30-scope)     | easy       |
-| 15     |     | easy       |
+| 15     | [LinkedList](https://www.hackerrank.com/challenges/30-linked-list)    | easy       |
 | 16     |     | easy       |
 | 17     |     | easy       |
 | 18     |     | easy       |
