@@ -26,8 +26,8 @@ Problems
 | 13      | [Abstract Classes](https://www.hackerrank.com/challenges/30-abstract-classes)   | easy       |
 | 14     | [Scope](https://www.hackerrank.com/challenges/30-scope)     | easy       |
 | 15     | [LinkedList](https://www.hackerrank.com/challenges/30-linked-list)    | easy       |
-| 16     |     | easy       |
-| 17     |     | easy       |
+| 16    | [Exceptions](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)    | easy       |
+| 17     |[More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/tutorial)    | easy       |
 | 18     |     | easy       |
 | 19     |     | easy       |
 | 20     |     | easy       |
@@ -58,4 +58,5 @@ Problems
 | [Merge Sort](https://www.hackerrank.com/challenges/ctci-merge-sort)                | hard       |
 | **Techniques/Concepts**                                                                              |            |
 | [Fibonacci](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers)                | easy      |
+| [LonelyInteger](https://www.hackerrank.com/challenges/ctci-lonely-integer)                | easy      |
 
