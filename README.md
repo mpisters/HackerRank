@@ -28,8 +28,8 @@ Problems
 | 15     | [LinkedList](https://www.hackerrank.com/challenges/30-linked-list)    | easy       |
 | 16    | [Exceptions](https://www.hackerrank.com/challenges/30-exceptions-string-to-integer)    | easy       |
 | 17     |[More Exceptions](https://www.hackerrank.com/challenges/30-more-exceptions/tutorial)    | easy       |
-| 18     |     | easy       |
-| 19     |     | easy       |
+| 18     |[QueuesAndStacks](https://www.hackerrank.com/challenges/30-queues-stacks)    | easy       |
+| 19     |[Interfaces](https://www.hackerrank.com/challenges/30-interfaces)     | easy       |
 | 20     |     | easy       |
 | 21     |     | easy       |
 | 22     |     | easy       |
