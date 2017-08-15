@@ -18,10 +18,12 @@ public class BalancedBrackets {
 
             char w = charArr[lengthChar];
             char v = charArr[0];
-            if (i < charArr.length - 1) {
+            if (i < charArr.length-1 ) {
                 char x = charArr[i];
                 char y = charArr[lengthChar - i];
                 char z = charArr[i + 1];
+                int difference = lengthChar - (lengthChar - i);
+                char l = charArr[difference];
                 if (x == '{' && y != '}') {
                     if (z != '}') {
                         balanced = false;
