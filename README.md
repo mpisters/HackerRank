@@ -71,3 +71,7 @@ Problems
 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)             | easy       |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)   | easy       |
 | [StairCase](https://www.hackerrank.com/challenges/staircase/problem)                       | easy       |
+| [Min Max Sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)                  | easy       |
+| [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem) | easy     |
+| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem) | easy|
+| [Grading Students](https://www.hackerrank.com/challenges/grading/problem) | easy|
