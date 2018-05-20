@@ -60,3 +60,14 @@ Problems
 | [Fibonacci](https://www.hackerrank.com/challenges/ctci-fibonacci-numbers)                | easy      |
 | [LonelyInteger](https://www.hackerrank.com/challenges/ctci-lonely-integer)                | easy      |
 
+#### Algorithms
+
+
+| Problem                                                                                    | Difficulty |
+|--------------------------------------------------------------------------------------------|------------|
+| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first/problem)             | easy       |
+| [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)         | easy       |
+| [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | easy       |
+| [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)             | easy       |
+| [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference/problem)   | easy       |
+| [StairCase](https://www.hackerrank.com/challenges/staircase/problem)                       | easy       |
