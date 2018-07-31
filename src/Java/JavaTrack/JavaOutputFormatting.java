@@ -1,4 +1,4 @@
-package Java;
+package Java.JavaTrack;
 
 import java.util.Collections;
 import java.util.Scanner;
