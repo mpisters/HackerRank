@@ -24,7 +24,21 @@ function main() {
     var n = parseInt(readLine());
     a = readLine().split(' ');
     a = a.map(Number);
+    var temp = 0;
+    var totalSwap = 0;
+    for(var i = 0; i < a.length; i++){
+       for (var j = 1; j < a.length -i; j++){
+           if(a[j-1] > a[j]){
+                temp = a[j];
+                a[j] = a[j-1];
+                a[j-1] = temp;
+                totalSwap++
+           }
+       }
+    }
+    console.log("Array is sorted in ", totalSwap, " swaps.");
+    console.log("First Element: ", a[0]);
+    console.log("Last Element: ", a[a.length-1]);
 
-    console.log("a: ", a);
 
 }

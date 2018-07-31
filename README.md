@@ -31,8 +31,8 @@ Problems
 | 18     |[QueuesAndStacks](https://www.hackerrank.com/challenges/30-queues-stacks)    | easy       |
 | 19     |[Interfaces](https://www.hackerrank.com/challenges/30-interfaces)     | easy       |
 | 20     |[BubbleSort](https://www.hackerrank.com/challenges/30-sorting)     | easy       |
-| 21     |     | easy       |
-| 22     |     | easy       |
+| 21     |[Generics](https://www.hackerrank.com/challenges/30-generics)     | easy       |
+| 22     |[BinarySearchTree](https://www.hackerrank.com/challenges/30-binary-search-trees)     | easy       |
 | 23     |     | easy       |
 | 24     |     | easy       |
 | 25     |     | easy       |
