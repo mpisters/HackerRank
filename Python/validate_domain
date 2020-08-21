@@ -1,0 +1,17 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+import re
+total_lines = int(input())
+domains = []
+for i in range(total_lines):
+    line = input()
+    matches = re.findall(r'(?<=http:\/\/)(?:\w+\.)+[a-zA-Z]+', line)
+    domains += matches
+
+converted_matches = [] 
+for domain in domains:
+    if re.match(r'ww\w\.', domain):
+        list_new_domain = domain.split('.')
+        domain = ".".join(list_new_domain[1:])
+    converted_matches.append(domain)
+result = ";".join(sorted(list(set(converted_matches))))
+print(result)
