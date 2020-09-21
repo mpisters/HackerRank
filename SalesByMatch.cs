@@ -18,14 +18,9 @@ class Solution
     {
         Array.Sort(ar);
         int result = 0;
-        for (int i = 0; i < ar.Length; i++)
+        for (int i = 0; i < ar.Length - 1; i++)
         {
             int number = ar[i];
-            if (i == ar.Length - 1)
-            {
-                break;
-            }
-
             int nextNumber = ar[i + 1];
             if (number == nextNumber)
             {
